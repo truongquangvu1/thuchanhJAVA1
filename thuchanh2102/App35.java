@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 public class App35 {
     public static void main(String[] args) throws Exception {
         Scanner sc=new Scanner(System.in);

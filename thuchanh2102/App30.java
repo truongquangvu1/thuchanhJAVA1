@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class App {
+public class App30 {
  
     public static void main(String[] args) {
         int number, balance;
