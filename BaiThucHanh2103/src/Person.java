@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class Person {
     String PersonID;
     String PersonName;
     Boolean Gender;
